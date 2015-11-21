@@ -1,6 +1,6 @@
 # airline-onedark.vim
 
-This is a [vim-airline](https://github.com/bling/vim-airline) theme for use with the [onedark.vim](https://github.com/joshdick/onedark.vim) colorscheme.
+This is a [vim-airline](https://github.com/bling/vim-airline) theme for use with the [joshdick/onedark.vim](https://github.com/joshdick/onedark.vim) colorscheme.
 
 **This theme depends on onedark.vim for its colors, and must therefore be used in conjunction with it.**
 
